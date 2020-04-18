@@ -1,2 +1,2 @@
 # spring-examples
-Small toy spring projects for example and educational purpose
+Small toy spring projects for example and educational purpose.
